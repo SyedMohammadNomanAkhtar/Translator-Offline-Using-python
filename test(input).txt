@@ -1,0 +1,1 @@
+The biggest reason to use translate is make translations in a simple way without the need of much effort and can be used as a translation tool like command line
